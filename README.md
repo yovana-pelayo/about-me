@@ -11,6 +11,7 @@ Create  an about me section
 make sure page is green
 commit after making a change successfully
 add a list 
+PR link correctly
 
 Additional considerations:
 
