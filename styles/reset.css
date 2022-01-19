@@ -5,7 +5,7 @@
 */
 
 *{
-    box-sizing: border-box;
+    box-sizing:content-box;
 }
 
 html, body {
@@ -25,7 +25,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
+	margin: 8px;
 	padding: 0;
 	border: 0;
 	font-size: 100%;
@@ -33,8 +33,9 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-ol, ul {
+
 	
+
+div {
+    font-weight:bold;
 }
-.list
-{ border-style: dotted;}

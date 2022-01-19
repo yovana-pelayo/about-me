@@ -86,3 +86,17 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+#list {
+    border: forestgreen solid 3px;
+    padding: 20px;
+}
+#name
+{
+    border: forestgreen dotted 3px;
+    padding: 19px;
+}
+#fact
+{ 
+    border: double 4px;
+    padding: var(--shadow);
+}
